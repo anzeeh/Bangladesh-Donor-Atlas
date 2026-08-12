@@ -113,14 +113,4 @@ JICA, and KfW are underrepresented in IATI's own data, and theme tagging
 is keyword-based rather than authoritative. The dashboard surfaces all of
 this directly rather than hiding it.
 
-## Possible next steps
 
-- Automate the refresh on a schedule via GitHub Actions, so the dashboard
-  updates itself quarterly without a manual run.
-- Add a "what changed since last refresh" digest (new activities, large
-  new commitments, donors that appeared/disappeared) — most useful if
-  paired with the GitHub Actions schedule above.
-- Cross-link themes to the companion
-  [Bangladesh Evidence Desk](https://anzeeh.github.io/Bangladesh-Evidencedesk/)
-  so each theme shows both "who's funding this" (this dashboard) and
-  "what the evidence says works" (the Evidence Desk) side by side.
