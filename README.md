@@ -4,7 +4,7 @@ A donor-landscape dashboard built from IATI Datastore exports for Bangladesh.
 No build step, no server, no dependencies beyond Python's standard library.
 Designed to live on GitHub Pages.
 
-**Live site:** `https://<your-username>.github.io/<this-repo>/`
+**Live site:** https://anzeeh.github.io/Bangladesh-Donor-Atlas/
 
 ## What's in this repo
 
